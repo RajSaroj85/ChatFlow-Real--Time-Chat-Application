@@ -1,0 +1,6 @@
+{
+  "name": "ChatFlow",
+  "description": "Real-time communication platform featuring 1-to-1 & group messaging, presence, file sharing, voice notes, reactions, read receipts, AI assistant, and admin moderation.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
